@@ -57,6 +57,7 @@ public class Problem6 {
 						number[i][j] = " ";
 					}
 					
+					
 
 				}else{
 					//奇数列は帰趨行のみ値をつめる　 配列に詰めるのはi行目はi列からmaxNum-i行まで
